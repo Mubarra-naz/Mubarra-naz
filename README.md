@@ -64,7 +64,7 @@ Currently **Technical Team Lead at Cloudpacer**, leading 15 engineers across pro
 
 ### Beyond Code
 
-I run Cloudpacer's internal playbook for secure, responsible AI adoption across engineering teams, and have taught GenAI, FastAPI, and Next.js to 200+ learners across 3+ cohorts as a Learning Support Mentor.
+I run Cloudpacer's internal playbook for secure, responsible AI adoption across engineering teams, managing 20 engineers, and have taught GenAI, FastAPI, and Next.js to 200+ learners across 3+ cohorts as a Learning Support Mentor.
 
 ---
 
