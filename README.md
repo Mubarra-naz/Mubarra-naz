@@ -14,9 +14,9 @@
 
 ### About
 
-I engineer systems that scale cleanly and don't break, and I bring that same rigor to AI: RAG pipelines, agentic workflows, and multi-agent orchestration, built secure and production-ready, not stitched together to demo well.
+I engineer systems that scale cleanly and don't break — and I bring that same rigor to AI: RAG pipelines, agentic workflows, and multi-agent orchestration, built secure and production-ready, not stitched together to demo well.
 
-The real risk with AI in production isn't the model. It's the same thing that sinks any system: breakage under load, thin monitoring, security gaps. That's where I focus, whether I'm shipping the feature myself or leading the team that does.
+The real risk with AI in production isn't the model — it's the same thing that sinks any system: breakage under load, thin monitoring, security gaps. That's where I focus, whether I'm shipping the feature myself or leading the team that does.
 
 Currently **Technical Team Lead at Cloudpacer**, leading 15 engineers across production AI-integrated SaaS in healthcare and fintech.
 
@@ -51,6 +51,16 @@ Currently **Technical Team Lead at Cloudpacer**, leading 15 engineers across pro
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+**AI Dev Tools & Agents**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude%20Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6E56CF?style=for-the-badge)
+
+Security-aware, review-first usage: AI-generated code goes through the same review standard as everything else — no exceptions for the source.
+
 **Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -64,7 +74,7 @@ Currently **Technical Team Lead at Cloudpacer**, leading 15 engineers across pro
 
 ### Beyond Code
 
-I run Cloudpacer's internal playbook for secure, responsible AI adoption across engineering teams, managing 20 engineers, and have taught GenAI, FastAPI, and Next.js to 200+ learners across 3+ cohorts as a Learning Support Mentor.
+I run Cloudpacer's internal playbook for secure, responsible AI adoption across engineering teams, and have taught GenAI, FastAPI, and Next.js to 200+ learners across 3+ cohorts as a Learning Support Mentor.
 
 ---
 
